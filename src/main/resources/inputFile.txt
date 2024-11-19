@@ -1,0 +1,4 @@
+"This is a coding assessment for HSBC"
+
+To read content of a file and write to another
+file in reverse order.
